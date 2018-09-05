@@ -1,0 +1,349 @@
+Note: This is to inform you that I have encountered a problem in my cell phone and the same will not be functional for a few days. I am available on mails, skype and my extension. Request you to reach out to  me accordingly. Inconvenience cause is deeply regretted. 
+
+ 
+
+Please do not reply all.
+
+ 
+
+Dear Team member
+
+ 
+
+I see that you recently have joined Capgemini or been rolled off to bench and your name appears in the bench list. To experience a smooth deployment process, kindly ensure that you do the following on priority. In case your current allocation needs to be extended or if you are incorrectly appearing on bench, please get in touch with your respective staffing partner immediately. Details of staffing partner available in the below table. Check your practice & sub-practice in iconnect and accordingly approach your location staffing partner:
+
+ 
+
+Staffing Partners (for Pune associates only):
+
+ 
+
+Practice
+
+Sub-practice
+
+Staffing partner
+
+GP-DCX
+
+DCX-MOB
+
+Kale, Priya <priya.kale@capgemini.com>
+
+DCX-CRM
+
+Mukherjee, Samidha <samidha.mukherjee@capgemini.com>
+
+DCX-ECM
+
+Goga, Sandhya <sandhya.goga@capgemini.com>
+
+DCX-BPM
+
+Vajpayee, Aakankasha <aakankasha.vajpayee@capgemini.com>
+
+GP-AUTO
+
+All
+
+Shikha, Deep <deep.a.shikha@capgemini.com>
+
+GP-NDAC
+
+GP-ADM
+
+ADM-JAVA
+
+Poojari, Deepak <deepak.poojari@capgemini.com>
+
+ADM-MFAS
+
+Mukherjee, Ankan <ankan.mukherjee@capgemini.com>
+
+ADM-PM/O
+
+Jagtap, Aarti <aarti.jagtap@capgemini.com>
+
+ADM-MS
+
+ADM-MCST
+
+GP-TEST
+
+All
+
+Aware, Asmita <asmita.aware@capgemini.com>
+
+ERP
+
+All
+
+Gopal, Janardhan <janardhan.gopal@capgemini.com>
+
+GP-YTP / GP-NGT
+
+All
+
+Gupta, Parul <parul.a.gupta@capgemini.com> / Shikha, Deep <deep.a.shikha@capgemini.com>
+
+GP-CFS
+
+All
+
+Pednekar, Anushree <anushree.pednekar@capgemini.com>
+
+ 
+
+ Kindly ignore this mail if action, on the below points, has already been taken by you:
+
+ 
+
+1.    Reporting time and location while on bench: Please make sure that you are available in office during the official working hours (8:30 AM – 6 PM). While on bench, you need to report at Talwade office only since most of the project interviews / discussions would happen in Talwade unless specified otherwise. Reporting at any other location without a prior approval (on mail) from the respective staffing partner and / or bench manager and / or people partner may result in a disciplinary action and no timesheet /Empulse request will not be approved for that / those day/s.
+
+All bench associates designated as Software Associate, Software Engineer and Senior Software Engineer need to start reporting at Unit 1, 2nd Floor, (A-wing) where systems are reserved for them.  
+
+ 
+
+2.    Upload / Update your resume in proper CG format on R2D2 portal along with skills. (Guidelines stated below). Please ignore, if already done. For everyone’s information, the link to upload resume has been changed. We no more use RMG portal. There is a new portal in place, called R2D2 (people analytics). Please follow the new link given in the Guidelines stated below and check if your resume is already uploaded. If not, kindly upload your resume on this portal ASAP. If your resume already appears on R2D2, ensure that it is updated with the latest information. Same is to be followed for skills. For updating skills too, there is a separate link given in the below mail other than erstwhile RMG. Please cross check and validate the information that is there in the system. Make changes as desired.
+
+ 
+
+3.   Change your supervisor (Not to be done by account hires who joined recently): As of now, since you are on bench, kindly change your supervisor immediately to the ones mentioned in the below table based on your designation, practice and/or sub-practice (refer details in the below table). It is crucial that you make supervisor name change since this may affect different approvals (leave applications, attendance regularization, transfers, L & D, clearances (in case you resign when on bench) to name a few) that you may require while you are on bench. Before changing your supervisor, ensure you have got all your previous requests (Leaves, Comp offs, Empulse, shift allowances (if any), iconnect tickets (if any) etc.) cleared from your account / previous supervisor. In an event where you don’t get the previous requests cleared, all such requests will flow in to your new supervisor’s queue and he / she may reject all these requests since they might not be the concerned person for the said approvals.
+
+ 
+
+Please follow the below path for changing the name of your supervisor. Kindly do not change the name of your appraiser and only change it when you get deployed. Your new appraiser will be your new supervisor whom you will be reporting to after being deployed:
+
+ 
+
+Path: iconnect >>My information >> Professional information >> Supervisor name (There is no separate option to edit the field. You just need to erase the existing contents and type the name of the new supervisor.)
+
+ 
+
+Practices
+
+Designations
+
+Location
+
+Sub-practices
+
+Name of the supervisor
+
+Emp id of the supervisor
+
+GP-ADM, GP-TEST, GP-CFS, GP-DCX, ERP, GP-NDAC, GP-AUTO
+
+Manager and above
+
+All Locations
+
+All
+
+Dsouza, Priya <priya.dsouza@capgemini.com>
+
+81926_FS
+
+GP-ADM, GP-TEST, GP-CFS, GP-DCX, ERP, GP-NDAC, GP-AUTO
+
+Senior Consultant, Consultant and Associate Consultant
+
+Bangalore, Gurgaon, Noida
+
+All
+
+Kumar, Nirmal <nirmal.a.kumar@capgemini.com>
+
+85802_FS
+
+Hyderabad
+
+All
+
+Vallepalli, Harishkumar <harishkumar.vallepalli@capgemini.com>
+
+C14326
+
+Pune
+
+All
+
+Dsouza, Priya <priya.dsouza@capgemini.com>
+
+81926_FS
+
+Chennai
+
+All
+
+Balasubramanian, Abinaya <abinaya.balasubramanian@capgemini.com>
+
+94415_FS
+
+Mumbai
+
+All
+
+Dsouza, Priya <priya.dsouza@capgemini.com>
+
+81926_FS
+
+GP-YTP / GP-NGT
+
+Senior Software Engineer, Software Engineer, Software Associate
+
+PUNE
+
+All
+
+Pathak, Suraj <suraj.pathak@capgemini.com>
+
+63927_FS
+
+Bangalore, Gurgaon, Noida
+
+All
+
+Kumar, Nirmal <nirmal.a.kumar@capgemini.com>
+
+85802_FS
+
+Hyderabad
+
+All
+
+Vallepalli, Harishkumar <harishkumar.vallepalli@capgemini.com>
+
+C14326
+
+Mumbai
+
+All
+
+Dsouza, Priya <priya.dsouza@capgemini.com>
+
+81926_FS
+
+Chennai
+
+All
+
+Balasubramanian, Abinaya <abinaya.balasubramanian@capgemini.com>
+
+94415_FS
+
+ 
+
+4.    Ensure your E-mail signature is as per standard CG format: You can use format given at the end of this mail.
+
+   
+
+5.    Clarity and timesheets: For filling your timesheets, while on bench, please use the bench codes available in clarity application, based on your practice. In an event where multiple bench codes are available, you can fill your time sheets against any one of the codes. In case the required codes are not visible in clarity, kindly raise a ticket on iconnect. The bench code generally follows the following syntax: IN_(Region code)_Bench (name of the practice).
+
+ 
+
+E.g.: IN11 Bench GP-ADM or IN12 Bench GP-DCX
+
+ 
+
+6.    Contact number to be updated in iconnect: Please update your contact number in iconnect using the below stated path. Kindly also ensure that you check the checkbox that reads ‘Display on Outlook’ while doing so.
+
+ 
+
+Path to update contact number:
+
+ 
+
+iconnect >>My information >> Personal info >> Mobile number >> Check the checkbox that reads ‘Display on outlook’ >>Submit (option available at the end of the page)
+
+ 
+
+You may ignore this mail if you have already updated your resume and changed your supervisor.
+
+ 
+
+Feel free to contact your location bench manager in case of any further issues / concerns / queries. Details of bench managers are given below:
+
+ 
+
+Location
+
+Bench Manager's name and mail id
+
+Pune
+
+Pathak, Suraj <suraj.pathak@capgemini.com>
+
+Mumbai
+
+Dsouza, Priya <priya.dsouza@capgemini.com>
+
+Chennai
+
+Balasubramanian, Abinaya <abinaya.balasubramanian@capgemini.com>
+
+Hyderabad
+
+Vallepalli, Harishkumar <harishkumar.vallepalli@capgemini.com>
+
+Bangalore, Gurgoan, Noida
+
+Kumar, Nirmal <nirmal.a.kumar@capgemini.com>
+
+ 
+Guidelines for updating your resume
+ 
+
+To staff right opportunities with the right bench associate it is very important that the organization has your latest resume. Thus it becomes mandatory for all associates to update their resume at least once in three months.
+
+ 
+
+You are hereby requested to update your latest resume in the system latest by tomorrow, EOD. Kindly reply to this email stating “Resume uploaded in CG format”, once done.
+
+ 
+
+Please find the path below to upload your resume and skills:
+
+ 
+
+Path:
+
+For updating / uploading your resume (You can download CG format template from the same path):
+
+ 
+
+http://r2d2-tools.capgemini.com/Home/Index (please use the attached template, if you are unable to download template from the said link. You can use ‘IN_Format.doc’ from the attached folder.)
+
+ 
+
+For updating your Skills:
+
+ 
+
+Competitiveness Skill Portal >> Menu >> Details >> Delivery Profile >> Edit
+
+ 
+
+Please raise a help desk ticket if any of the above links are not accessible.
+
+ 
+
+ 
+
+Kindly update your resume by the stated deadline else it may get reported into non compliance report which in turn will get escalated to the senior management / leadership.
+
+ 
+
+Please ensure the following points are considered while you update your resume.
+
+ 
+
+1.      Under the Employment  history please, mention Capgemini as your current employer (From date of joining till date)
+
+2.      You need to update the resume  only in Capgemini India format. The sample is available on the portal itself.
+
+3.      If your resume does not give a catchy impact to the client/s or accounts, the chances of you getting shortlisted may reduce considerably.
+
+4.      Extensively reflect  your project experience  / training and highlight your primary skills,
+
+1.      For FLP’s (Designations below Associate Consultants) : Please mention your project and Seminar details and if you do not have a past experience related to your skills, do mention it.
